@@ -4,4 +4,6 @@
   and it offers free community support.
 
 2. Get data set from kaggle.com
-    sign up first, then you can download data setß
+    sign up first, then you can download data set
+
+3. Launch Anaconda Navigator
