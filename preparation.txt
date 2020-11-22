@@ -1,0 +1,7 @@
+1. Install Anaconda Individual Edition
+  Anaconda® is a package manager, an environment manager, a Python/R data science distribution, 
+  and a collection of over 7,500+ open-source packages. Anaconda is free and easy to install, 
+  and it offers free community support.
+
+2. Get data set from kaggle.com
+    sign up first, then you can download data setß
